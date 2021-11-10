@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\GoToPara\GoToPara\bin\Debug\net5.0\GoToPara.exe
+C:\Users\Admin\source\repos\GoToPara\GoToPara\bin\Debug\net5.0\GoToPara.deps.json
+C:\Users\Admin\source\repos\GoToPara\GoToPara\bin\Debug\net5.0\GoToPara.runtimeconfig.json
+C:\Users\Admin\source\repos\GoToPara\GoToPara\bin\Debug\net5.0\GoToPara.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\GoToPara\GoToPara\bin\Debug\net5.0\GoToPara.dll
+C:\Users\Admin\source\repos\GoToPara\GoToPara\bin\Debug\net5.0\ref\GoToPara.dll
+C:\Users\Admin\source\repos\GoToPara\GoToPara\bin\Debug\net5.0\GoToPara.pdb
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.dll
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\ref\GoToPara.dll
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.pdb
+C:\Users\Admin\source\repos\GoToPara\GoToPara\obj\Debug\net5.0\GoToPara.genruntimeconfig.cache
